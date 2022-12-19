@@ -1,6 +1,6 @@
 package exer_repeticoes;
 
-import java.util.Scanner; // importa a classe Scanner para ler entradas do teclado
+import java.util.Scanner;
 
 public class exer06 {
   public static void main(String[] args) {
